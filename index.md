@@ -9,3 +9,8 @@ if(iamhungry){
   print("schleep);
 }
 ```
+### testing for list
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Introduce myself to the world
+- [ ] finish my degree
